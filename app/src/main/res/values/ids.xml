@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="MainRel"  type="id"/>
+    <item name="SubLin" type="id"/>
+    <item name="intro" type="id"/>
+    <item name="changeButton" type="id" />
+    <item name="frameL" type="id"/>
+</resources>
